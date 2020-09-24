@@ -20,3 +20,5 @@ function DetailsScreen({navigation}) {
 }
 
 export default DetailsScreen;
+
+DetailsScreen = DetailsScreen;
